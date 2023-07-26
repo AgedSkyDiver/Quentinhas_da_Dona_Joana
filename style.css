@@ -15,7 +15,9 @@
     font-family: var(--fonte-principal);
 }
 .cabeçalho-imagem {
-    width:15%
+    width: 20%;
+    height: 80%;
+    margin-top: 20px;
 }
 
 .parte-central {
@@ -98,7 +100,7 @@ margin-right: 25px;
 }
 
 body {
-    background-color:#dcdcdc;
+    background-color:white;
     font-family: var(--fonte-principal);
     display: inline;
     justify-content: center;
